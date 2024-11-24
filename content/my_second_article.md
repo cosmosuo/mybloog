@@ -11,13 +11,25 @@ plum
 
 
 
-        pink 
+pink 
+
+
+
+plonk 
                 
-                plonk 
-                
-                              doinky 
+
+
+
+oinky 
                               
-                                            dinky 
+
+
+
+
+
+
+
+dinky 
                                             
                                             
                                             
@@ -27,6 +39,7 @@ plum
 
 
                                         
-                                                      poo schmick
+*poo schmick*
 
-                                                      -Thoughtful insight to emoism full of thought
+
+**-A thoughtful insight to emoism full of thought**
