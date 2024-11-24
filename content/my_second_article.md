@@ -29,4 +29,4 @@ plum
                                         
                                                       poo schmick
 
-                                                      -Thoughtful isight to emoism full of thought
+                                                      -Thoughtful insight to emoism full of thought
